@@ -1,0 +1,14 @@
+
+body{
+    
+    background-image:url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contenedor{
+    display: flex;
+}
+.text1{
+    margin: 0px 20px;
+}
